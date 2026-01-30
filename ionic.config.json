@@ -1,0 +1,7 @@
+{
+  "name": "trxmyApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}

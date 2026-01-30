@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "แนวข้อสอบ TGAT ภาษาอังกฤษ",
+    "author": "ศุภวัฒน์ พุกเจริญ รศ.ดร.",
+    "price": "299",
+    "available_copies": 3,
+    "cover_url": "https://mp-static.se-ed.com/physical/cover/29pj3esxqybdglt0zqjv/image/2o2py0db"
+  },
+  {
+    "id": 2,
+    "title": "ถนนสู่เสรีภาพ : The Road to Freedom",
+    "author": "Joseph E.Stiglitz (โจเซฟ อี. สติกลิตซ์)",
+    "price": "217.55",
+    "available_copies": 0,
+    "cover_url": "https://mp-static.se-ed.com/physical/cover/d9w51jdgsklxplbv2gz4/image/e1a059ed"
+  },
+  {
+    "id": 3,
+    "title": "ติวเข้มเตรียมสอบ TGAT2 + TGAT3 การคิดอย่างมีเหตุผล และสมรรถนะการทำงาน ฉบับอัปเดต",
+    "author": "G.T.Karber",
+    "price": "315",
+    "available_copies": 5,
+    "cover_url": "https://mp-static.se-ed.com/physical/cover/nywyr8j7ofu92cq7y0xz/image/a80imgj1"
+  },
+  {
+    "id": 4,
+    "title": "Healthy Aging ผู้หญิง 40+",
+    "author": "ปวิตรา เกษมเนตร",
+    "price": "339",
+    "available_copies": 5,
+    "cover_url": "https://mp-static.se-ed.com/physical/cover/v3410spx3iiycrkt0d58/image/8p4j65q8"
+  },
+  {
+    "id": 5,
+    "title": "รวมกฎหมายแรงงาน (แก้ไขเพิ่มเติมใหม่ล่าสุด พ.ศ. 2569)",
+    "author": "",
+    "price": "474.05",
+    "available_copies": 5,
+    "cover_url": "https://mp-static.se-ed.com/physical/cover/sqw2ke1hvv2ig9gc39d0/image/6e98mwmo"
+  },
+  {
+    "id": 6,
+    "title": "คู่มือเขียนพินัยกรรม กฎหมายมรดก",
+    "author": "เอ๋อร์หย่า",
+    "price": "173",
+    "available_copies": 5,
+    "cover_url": "https://mp-static.se-ed.com/physical/cover/bqs5ykfjg41usd6ubwv6/image/rgl9dzo3"
+  },
+  {
+    "id": 7,
+    "title": "อาชญรีเยนต์",
+    "author": "คู่มือเขียนพินัยกรรม กฎหมายมรดก คงคา",
+    "price": "285",
+    "available_copies": 5,
+    "cover_url": "https://storage.naiin.com/system/application/bookstore/resource/product/202509/684570/1000285175_front_XXL.jpg?imgname=%E0%B8%AD%E0%B8%B2%E0%B8%8A%E0%B8%8D%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B9%8C"
+  },
+  {
+    "id": 8,
+    "title": "ทำงานฉลาดใน 100 ภาพ",
+    "author": "โคโมริ ยู",
+    "price": "211.50",
+    "available_copies": 5,
+    "cover_url": "https://storage.naiin.com/system/application/bookstore/resource/product/202508/683346/1000284707_front_XXL.jpg?imgname=%E0%B8%97%E0%B8%B3%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%89%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%99-100-%E0%B8%A0%E0%B8%B2%E0%B8%9E"
+  },
+  {
+    "id": 9,
+    "title": "เกี้ยวกันต์ธีร์",
+    "author": "DaisySeason",
+    "price": "308.75",
+    "available_copies": 5,
+    "cover_url": "https://storage.naiin.com/system/application/bookstore/resource/product/202410/627359/6000100106_front_XXL.jpg?imgname=%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B9%8C"
+  },
+  {
+    "id": 10,
+    "title": "กฎหมายระหว่างประเทศ : ความรู้ฉบับพกพา",
+    "author": "Antoine de Saint-Exupéry (อ็องตวน เดอ แซ็งแตกซูว์เปรี)",
+    "price": "190",
+    "available_copies": 5,
+    "cover_url": "https://mp-static.se-ed.com/physical/cover/4cclnhlj8pt9j0xh5l0k/image/f3yk4i9i"
+  }
+]

@@ -1,0 +1,120 @@
+ion-toolbar {
+  --background: #f28c28; 
+  --color: #fff;
+  font-weight: 600;
+}
+ion-toolbar ion-title {
+  font-size: 20px;
+  letter-spacing: 0.5px;
+}
+
+/* Buttons */
+ion-button {
+  --background: #f28c28;
+  --color: #fff;
+  border-radius: 12px;
+  font-weight: 500;
+  letter-spacing: 0.4px;
+  transition: transform 0.15s ease, filter 0.3s ease;
+}
+
+ion-button:hover {
+  filter: brightness(1.15);
+  transform: translateY(-2px);
+}
+
+ion-button:active {
+  transform: scale(0.96);
+}
+
+ion-back-button {
+  color: #fff !important;
+  --color-hover: #f2b84b;
+}
+
+/* Searchbar */
+ion-searchbar {
+  --background: #f5c68a;
+  --color: #3a3a3a;
+  --placeholder-color: #dca56d;
+  border-radius: 10px;
+  margin: 6px;
+  font-family: "Prompt", "Noto Sans Thai", sans-serif;
+}
+
+/* List */
+ion-item {
+  --ion-item-background: #fff4e6;
+  border-radius: 12px;
+  margin-bottom: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
+}
+
+ion-item:hover {
+  transform: scale(1.01);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.12);
+}
+
+/* Book Cover */
+ion-thumbnail img {
+  width: 100px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 4px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+}
+
+/* Book title / text */
+ion-label h2 {
+  font-size: 1px;
+  font-weight: 600;
+  color: #d96424;
+}
+
+ion-label p {
+  font-size: 14px;
+  color: #b86b3f;
+}
+
+/* Status Badge */
+ion-badge {
+  padding: 6px 10px;
+  border-radius: 8px;
+  font-weight: 500;
+}
+
+ion-badge.available {
+  background: #f28c28; /* ส้มเข้ม */
+  color: white;
+}
+
+ion-badge.borrowed {
+  background: #d95b22; /* ส้มแดง */
+  color: white;
+}
+
+/* Book Detail */
+.book-detail {
+  text-align: center;
+  padding: 20px;
+}
+.book-detail h2 {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 12px;
+  color: #d96424;
+}
+
+.book-cover {
+  width: 170px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 10px;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.15);
+  margin-bottom: 16px;
+}
+
+.author,
+.price {
+  color: #b86b3f;
+}
